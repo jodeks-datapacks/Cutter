@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:brown_wool"
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.brown_wool\",\"italic\":false,\"color\":\"yellow\"}",
+      "minecraft:rarity": "common",
+      "minecraft:profile": {
+        "name": "id",
+        "id": [
+          425844880,
+          1310738861,
+          -1445392309,
+          1664300413
+        ],
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWYxMjU5NjU2YjFjZDFhNzBkZmFkOTI4MjlhZmMwOTgyODhlOGU1YmZjNzI0YjlmMmJiNGJiZWIyOGZkYzUxNyJ9fX0="
+          }
+        ]
+      },
+      "minecraft:note_block_sound": "minecraft:block.wool.place"
+    }
+  }
+}

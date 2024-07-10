@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cauldron"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.cauldron\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                336750977,-570537910,-1812393484,-2079364950
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDI3ZDY0ZTE0M2UwNThhZmQ5MWFhYTY1MTFiZTVlNDc0OTg3OWZlNDU2NGI0YTVjNTVhMzI0MzkzMTU2NDVhZSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

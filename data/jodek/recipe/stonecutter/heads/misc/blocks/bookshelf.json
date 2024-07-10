@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:bookshelf"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.bookshelf\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                15515287,1614433362,-1272585397,-2093343327
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRjZmY4NGI5YWJlMjM0YzA4YTI0Zjk5OGUxNzljYTRkMzdkZTQ3YzUxOWQyZWNlYWUxOGY2NGVkNWZkNyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cooked_beef"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.cooked_beef\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -867846195,-585349539,-1496793910,2015299274
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTEzZmRjZjdhNmUyNTU4MGQxYTA0NGI1N2U4NDNlMzE3NGEwY2E1YTlmYmRlMzYxMDU4YzhkMGY0ZmRmNjQ3NCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:salmon"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.salmon\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -290381331,1964658634,-1182667090,-1402718353
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRkMDAxNTg5Yjg2YzIyY2YyNGYxNjE4ZmU3ZWZlZjEyOTMyYWE5MTQ4YjVlNGZjNmZmNGE2MTRiOTkwYWUxMiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

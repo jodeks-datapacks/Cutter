@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:crimson_hyphae"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.crimson_hyphae\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -14663209,
+                166021033,
+                -1958165081,
+                -714103761
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJiZjU5ZjAzY2Y0MTIwZmIxNjMxM2M2NDk5ZmJmOTI1MmE0OWI4MzFkZWM2ZTE3NjQ3YWFmY2VlMWJkZTRiZCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

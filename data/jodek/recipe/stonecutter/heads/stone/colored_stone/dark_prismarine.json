@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:dark_prismarine"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.dark_prismarine\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -554963521,1791315621,-1411130676,1502013721
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmZhMjQ2NzBkZjJhZjdkMTVmNjU5ZDliNmMxNzZiZWUwNzdhZmJiMmM4NWViZTdhM2RkNWYwYTFjNGM4MTZkZiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

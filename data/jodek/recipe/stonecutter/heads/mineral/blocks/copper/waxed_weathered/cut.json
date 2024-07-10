@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:waxed_weathered_cut_copper"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.waxed_weathered_cut_copper\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                639763926,-454668407,-1744193737,1298781322
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIyNjU1OGI1ZDRiODJhMTliMTEzNTQ5MzljYmY2NDFmNDNiOTAyZGM0ZTRkMDk4ZDYxOTI3ZWE3Y2UxOTJkMiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

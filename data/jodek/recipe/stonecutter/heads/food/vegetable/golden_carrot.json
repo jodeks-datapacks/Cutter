@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:golden_carrot"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.golden_carrot\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -1245656001,-2144649155,-1610604009,405741833
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTU1YjQ4OTg2NDJiZDQ4M2I2NzM2MTM2NjFhZmQ2N2U0ZDE0ZTQ0NGUzMjZjNGYzNjMxNTY0NWE0ZDMxMyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

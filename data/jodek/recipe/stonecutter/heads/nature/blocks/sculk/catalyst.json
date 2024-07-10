@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:sculk_catalyst"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.sculk_catalyst\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -1482790122,695684307,-1158628516,-567019125
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVjMjMxMmMzNzVlMWQzMzQ4MjM0YzcyZjcwMTc2OTJjOTgxNmIxZTU5NGFjZDlmZmMyOWUyNmI4M2MwYjM3ZiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

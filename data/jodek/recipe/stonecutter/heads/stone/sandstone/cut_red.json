@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cut_red_sandstone"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.cut_red_sandstone\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1577201715,732448553,-1613110154,695245706
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzNWE0NTEyOTE2YzI2YzM5NDBlMTI4OTk1M2E3YTUzMTJhY2JkYTE0YjRmMzcwZjQ5Y2I2OWEwMjUwYzVmNiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

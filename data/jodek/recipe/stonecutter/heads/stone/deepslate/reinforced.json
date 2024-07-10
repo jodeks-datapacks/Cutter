@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:reinforced_deepslate"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.reinforced_deepslate\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -778882511,-1800451343,-1289037279,851906989
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNiOWI0Yjg4NTgzNDQ0NzY2ZWFmOTc1OTYyNjVhMWUzMmZkNTFjOGViYTIzMDlkOTNmMmFkMzdiMjJhNzY5In19fQ=="
+                  }
+              ]
+          }
+      }
+  }
+}

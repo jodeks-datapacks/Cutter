@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:hay_block"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.hay_block\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                128957889,799296574,-1292605222,-1892457019
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVkMWRiYzQ0ZGZlNmQ2NTY4ZmRkNTdjZWMwYjhjZjBkMWRkZWJlMjNiZWI5YWI0NDhhZTY1NjlmZGQ0YjdjNiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

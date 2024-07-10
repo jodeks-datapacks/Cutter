@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:warped_stem"
+    },
+    "result": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+            "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.warped_stem\",\"italic\":false,\"color\":\"yellow\"}",
+            "minecraft:profile": {
+                "id": [
+                    560735713,
+                    1950826929,
+                    -1155414051,
+                    -2025085471
+                ],
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NkNTVhYzBlNGExODljMTVhNDE2ZjM1ZmQ0NzMzODRmN2E5ODZkNGNiMWViMjkyZmJhNTIyMTIzN2FiZDg4OCJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

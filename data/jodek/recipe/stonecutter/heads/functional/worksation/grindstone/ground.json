@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:grindstone"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.grindstone\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1106096733,1744260512,-1372380703,511338988
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUyOWRmNzc2OTA4MzBiYjNlMzJlNDI3NWZhMmU0NDFhZGUzMzBhNzBjMzVjZGM4YmFmZjVkYTQ1ZDM5OWYwOSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:chiseled_polished_blackstone"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.chiseled_polished_blackstone\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                340034504,141313240,-1645527918,1277357908
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjU1MjQxOTNhMDFmZjlmNmVmMjEyZjYxOGU5NDYyMWRmZjBmNzM2OTcwNmZkMWViMThjNzkwMTIxNzE3MTYwYyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

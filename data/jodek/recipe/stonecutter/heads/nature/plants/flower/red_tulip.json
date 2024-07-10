@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:red_tulip"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.red_tulip\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                2011478396,-1542110541,-1752041664,-1266180410
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMzNWVmZGQxZjczZTgyZjFjZDA0MjlkOTA2ZWZhYWQ0YjBiYWFhOGM2YjZkNWNmMzA4ZWJlNDcyZGQ0NzY3NiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

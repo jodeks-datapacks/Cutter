@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:dropper"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.dropper\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -1916224060,1703890841,-1636839838,-2050208674
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBkNzUzN2E4ZTc2MmZjM2FkZDllY2IyMDczODJkNjRiOGJjZWMyNDk0OGEzNmI1ZjFjNjBhN2ZkZWY2ZTlmZCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

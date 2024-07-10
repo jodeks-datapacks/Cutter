@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cake"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.cake\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                453868898,-1147322205,-1471958913,-393635600
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ1YjI5ODg4ZjFmZGZiNTIxNzA5NWFiOTFjMjhhMTgyOGIxNGViNDIzNTQzNWI2ODI3NzFhMmY3YTQxYmRhNiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

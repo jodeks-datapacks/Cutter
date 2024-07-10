@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:bamboo"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.bamboo\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -1615636732,-1485356528,-1089317040,1326513099
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjNjNzgxMjQxYTAzN2IzMjFhYmVlODlhYjIzODQ5OWVlOGQ1NWU1MDI2MzBhZTY0OGNmOTNiYWUwNzVjZDgxZCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

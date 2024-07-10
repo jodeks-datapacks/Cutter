@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:stripped_dark_oak_wood"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.stripped_dark_oak_wood\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                106028141,
+                -2078260383,
+                -1368176692,
+                -2022764820
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAxYjA3NGYyMDMwMTliZmU0ZGUzYjNmMTQ5YjhhMGQ5ZmY5ZGZjNjMzNTY0OGY5YzY3ZTU5YTZlZjA3YjA3MyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

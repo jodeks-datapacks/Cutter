@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:lapis_lazuli"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.lapis_lazuli\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                68678224,1058096807,-1833033868,-2011214851
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZiNjdmNmM2ZDQxNjJiOTIwMzgyOWU2MjBjOTBhNWYyZjE5YTgzZDAzMjZhZDgzZWE1OTYxYzA3MGRjZmEzNiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:mangrove_leaves"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.mangrove_leaves\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                770334379,-908376988,-1099448685,-3708162
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZhZjlhYjcwYWQ0MDcxNDhlMmFlMGI0YWY4MWVkODE3YTBiZjk5Y2U2YTA4N2I2OTI4NmVjNmNhYTAzYTM5ZCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

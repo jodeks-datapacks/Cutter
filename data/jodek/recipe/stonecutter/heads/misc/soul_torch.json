@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:soul_torch"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.soul_torch\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                9281161,1157909612,-2004051813,-1378791701
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzQ1ODMxZWFlZjk5ZTAzMGM4MmIxZTc5Y2U2M2IyY2I0NGRmMTM2MTY2MGRhZjRlNDIxNjFkZDlkYjQyYTc1NCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

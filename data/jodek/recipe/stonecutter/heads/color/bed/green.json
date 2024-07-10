@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:green_bed"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.green_bed\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -2087465762,-714258925,-1125453171,1505070438
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjM0MjY2YzEyYmZmMmQxOGQ2Y2QwOTI4ZGYzZWQ5NTM5YjliOGE2NWMzNDJiZjlmZDVlNGE3ZmJmNDY2NjcxMiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

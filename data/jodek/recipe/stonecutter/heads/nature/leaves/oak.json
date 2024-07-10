@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:oak_leaves"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.oak_leaves\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -1262371807,-1251849932,-1362723860,-364911542
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ0ZTI5ZGYyZDEwMWY3MzFhYWQ1YWRiNzNkODYxOWVhZDZkZWUzZDlmZGU2ZDQ4YWEyOGFlYTNmZTZkMTM4MSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

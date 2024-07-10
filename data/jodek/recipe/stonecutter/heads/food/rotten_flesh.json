@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.rotten_flesh\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                986976904,523256453,-1362618068,1299397736
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRlMDZlYzAyNjlkYzk1ZjNiNWU5OTk3NmFkM2RkNmI4Y2Y3MGYxM2E0MTYzZTc1NDJiMjdmZDk5YzkzNTEwMCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

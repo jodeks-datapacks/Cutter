@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:yellow_candle"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.yellow_candle\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                413210974,-664449722,-2118383736,1130393090
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZkMmM3NzdmZGYwNTdkMzY1NzUzZmZiNGQ3NGYzMGI4YzRlOGVkZTdiYzY4ZWFkMWYyMWY2MmE5OThhYTI0ZCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

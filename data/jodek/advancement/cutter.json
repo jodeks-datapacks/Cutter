@@ -1,0 +1,77 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:stonecutter"
+        },
+        "title": "Cutter                                                                                                                  ",
+        "description": [
+          "",
+          {
+              "text": "Adds tweaks and heads for the stonecutter!\n",
+              "color": "white"
+          },
+          {
+              "text": "\n",
+              "color": "yellow"
+          },
+          {
+              "text": "/trigger",
+              "color": "yellow"
+          },
+          {
+              "text": " help.cutter\n",
+              "color": "yellow"
+          },
+          {
+              "text": "for help\n",
+              "color": "white"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "Datapack version: ",
+              "color": "dark_green"
+          },
+          {
+              "text": "v.1.1.0",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "Game version: ",
+              "color": "dark_green"
+          },
+          {
+              "text": "1.21",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "modrinth.com/datapack/cutter",
+              "color": "dark_purple"
+          }
+      ],
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "jodek:crafting",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+  }
+  

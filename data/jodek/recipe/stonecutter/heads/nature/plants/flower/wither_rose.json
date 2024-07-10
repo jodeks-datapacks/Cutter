@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:wither_rose"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.wither_rose\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                663727451,362627176,-1288195424,-1794765243
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk1YTA1OTkyYWZhMzdiMzgwNmI4MWYwMDAzY2E2MTdiM2MxY2JiOTE3MGEyMzA5MTE1YjljNmEwM2ViNzNhZiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:redstone_ore"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.redstone_ore\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1404527158,1165247456,-2021833164,-1316971334
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWJkZjU4ZjcxZmU3NmZiMTg4MjY0YWVjYjQ4NGQxYWMzNzM1NzQwODIwZDE4MTgyMmM3M2JhZGI1OWEyNzYxMyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:allium"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.allium\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1797816305,-2211449,-1819434115,-391775640
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQzNzM0NzI0ZDVjNWFlMTY1OTI0MWYzYTNjZWVhZjJhNjVhZTczYjQ5Y2RjNTA0YWY5NWVmZDk1YWFhNGQ2YyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

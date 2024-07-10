@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:birch_sapling"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.birch_sapling\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -559489967,-658618958,-1927175709,-1080728166
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmYxMjBiZGQwNDdlNWU1ZGVlZDkzYzU3ZjhmZDE1Y2JkMGZjOWRhZDBmZmYwMWIxYjY3MzMyMGFhZmVhMGY5In19fQ=="
+                  }
+              ]
+          }
+      }
+  }
+}

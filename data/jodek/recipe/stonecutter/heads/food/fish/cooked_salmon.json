@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cooked_salmon"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.cooked_salmon\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -753690748,-60732552,-1533883966,-1239881939
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU4YWQ1Y2UyOThmYjNmNDI1ODc0OTQ5NTJhZjljNGFhOTA3MWJjMTNjZjFmMWJlNDkzNmFiNTI5YjM5NWVkMCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

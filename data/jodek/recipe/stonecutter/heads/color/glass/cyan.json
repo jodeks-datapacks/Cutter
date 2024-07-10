@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cyan_stained_glass"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.cyan_stained_glass\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                446776499,1518227309,-2049859691,1927449190
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAyOTBlYWQ3YmIzY2MzZjhlMTkyNThlMDNjMDFiYWJhZmY1NTU0MGZiOTE0OWZkMGI1NTliMTZmYjJlMjJmIn19fQ=="
+                  }
+              ]
+          }
+      }
+  }
+}

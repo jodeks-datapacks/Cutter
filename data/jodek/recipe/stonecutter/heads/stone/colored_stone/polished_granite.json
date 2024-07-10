@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:polished_granite"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.polished_granite\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                709909966,-1836693381,-1211007400,705037986
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRkMzQ0NzgwMGNiMjhkNjFjMzNlOThjNWY1ZjAyMGE5YWE2NmQ5OTkzNTk0NGI2MDI3OTg3M2RkNTY2ZWRkMCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

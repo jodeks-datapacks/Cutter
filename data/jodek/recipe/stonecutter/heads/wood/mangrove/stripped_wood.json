@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:stripped_mangrove_wood"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.stripped_mangrove_wood\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                84770037,
+                -1752020293,
+                -1472352654,
+                -1548576818
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlOGJkNWVlYzU2ODI3ODhiMzk1ZWYzMDljZDAyYzVjODQxNDJkMGY4NTI0OTQ2MzQ2YzEyM2I1NjI2MjBjMSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

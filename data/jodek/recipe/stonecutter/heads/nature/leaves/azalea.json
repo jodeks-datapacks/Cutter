@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:azalea_leaves"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.azalea_leaves\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1320259686,1499152850,-1206358583,1099931584
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhkY2VhOWIzYjJmYmYwMzZmMDk2OWQ4YmE2YmU3ZGEyYTgyMTFkZDZhYTRiZjJmZWQ4OGMxMTRkNDE3NzM2YyJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:acacia_leaves"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.acacia_leaves\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                716502798,570509444,-1492349075,1462040036
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTYxNzMyZmZlOWM2MThiNGNmMGU3Y2ZhY2YxYTUxMTcxM2NjM2FhNTQ5NjQ5OTVhN2Q0NjVlYTVjMTZjZDE1NCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

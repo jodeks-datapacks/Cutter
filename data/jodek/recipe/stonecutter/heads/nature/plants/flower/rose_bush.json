@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:rose_bush"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.rose_bush\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1795570769,884232139,-1106401617,-260558040
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTAxOWVjZTEyNWVjNzlmOTUxNzhlMWFmNGRhMmE4Yjk4MmRlNzFlZDQyYzMxY2FjNGIxZDJmNjY1MzU1ZGY1YSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

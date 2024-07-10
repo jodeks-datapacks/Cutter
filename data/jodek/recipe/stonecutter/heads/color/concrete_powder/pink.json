@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:pink_concrete_powder"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.pink_concrete_powder\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                2066597087,1955679140,-1903419781,-303257974
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYzODdiNjlmOTRmZWVhMjU2NzFmYzM5OWViNzVkYmVhYzYwZjUxMmE0YmZlNzhlNDU0MTcxZWUzZmMwIn19fQ=="
+                  }
+              ]
+          }
+      }
+  }
+}

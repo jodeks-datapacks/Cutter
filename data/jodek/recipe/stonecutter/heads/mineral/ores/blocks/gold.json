@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:gold_ore"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.gold_ore\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                114979469,1826243918,-1425303224,-48096464
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM5ZDRiMGVjNWUwYTYzZTRjMjg2ZWNkZmEyNTViMzFkZjEzYzQyMDIzMzgxNWI1ZTgxZTdlZjMxNTY3NTEwOSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

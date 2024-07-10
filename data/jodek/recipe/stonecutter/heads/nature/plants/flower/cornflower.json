@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cornflower"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.cornflower\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -41675071,117656118,-1325769260,-732598746
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTA2Y2U3ODdmZmM5MGNhODVmNTk0ZTZiZjYyYWI3ZTJhZjAxN2EwOTA1ZDEyYzhiMjg3NzQyMTM1M2Q1Nzc4OCJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

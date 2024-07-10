@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:cooked_cod"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"item.minecraft.cooked_cod\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1952030546,756105877,-1541046276,-1805171564
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzVjYzc3ODE5Yzk5M2MxOTZjM2E1NzhkZGNlMGVmNmIyMGVhMTc1ZDk5ZTYxNTRmNmI1NTRjMTFiODRmZDU0MiJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

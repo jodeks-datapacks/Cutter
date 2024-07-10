@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:oxidized_cut_copper"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.oxidized_cut_copper\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                400221583,1582122242,-1250515793,-1155378566
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRiNTE4ZTQxOTQ4NDdmN2FjYWJmZTgyYjgxMTgwZDVkZmJjMDI5YTRiYzMyNDFlYWYwM2JjYjNmN2RjNDIxZSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

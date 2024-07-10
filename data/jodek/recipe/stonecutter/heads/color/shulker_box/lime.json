@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:lime_shulker_box"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.lime_shulker_box\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                -1777288588,-46380189,-1117987160,9186380
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ1Y2YwNDIxNzJjOWU0ZTdjOGVlYTU3MGFjOGJiZDc2ZGM3ZDhkNTYxYWUwZjdiNjA5MzdiM2JkNGQ5MmUxOSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

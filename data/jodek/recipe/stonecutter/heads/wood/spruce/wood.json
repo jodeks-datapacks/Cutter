@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:spruce_wood"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.spruce_wood\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                386236663,
+                -2029631751,
+                -1800429201,
+                71269561
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmFmMDVjNGU0MjI0ZmRkZDBiNTAyYTFlNjc5NGNjM2U1ZjFmYWRmYzU0MDdkYTUzMzhhODI1YzA0YWU5Y2VkMSJ9fX0=="
+                  }
+              ]
+          }
+      }
+  }
+}

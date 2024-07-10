@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+      "item": "minecraft:diamond_block"
+  },
+  "result": {
+      "id": "minecraft:player_head",
+      "count": 1,
+      "components": {
+          "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.diamond_block\",\"italic\":false,\"color\":\"yellow\"}",
+          "minecraft:profile": {
+              "id": [
+                1640236455,-344503059,-1280001552,-1511625722
+              ],
+              "properties": [
+                  {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYxNjVhZjg0MmQ3MWRjNTg4MjRjNzZhZjEwNDE2MzE2YTU1YWNlZTVhYzY5YWUxMWE4MWE2NWQ0ZDQ1Mzk2MSJ9fX0="
+                  }
+              ]
+          }
+      }
+  }
+}

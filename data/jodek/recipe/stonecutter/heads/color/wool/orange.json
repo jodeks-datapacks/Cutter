@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:orange_wool"
+  },
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": "{\"type\":\"translatable\",\"translate\":\"block.minecraft.orange_wool\",\"italic\":false,\"color\":\"yellow\"}",
+      "minecraft:rarity": "common",
+      "minecraft:profile": {
+        "name": "id",
+        "id": [
+          -1963248790,
+          105988898,
+          -1285589489,
+          -447401191
+        ],
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWUzMDQ4MGVkMjgzNGY1YjdjYzgxZGNiMWRjN2U0NzY2NzkyNDMwYzQ5ZGFkNGRiY2QxMGE5M2M1ZTE0NTdiYyJ9fX0="
+          }
+        ]
+      },
+      "minecraft:note_block_sound": "minecraft:block.wool.place"
+    }
+  }
+}
