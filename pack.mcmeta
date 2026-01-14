@@ -1,0 +1,53 @@
+{
+  "pack": {
+    "pack_format": 80,
+    "min_format": 80,
+    "max_format": 999,
+    "supported_formats": {
+       "min_inclusive": 80,
+       "max_inclusive": 999
+    },
+    "description": [
+      {
+        "text": "\"Better Cutter\" (cutter)"
+      },
+      "\n",
+      {
+        "text": "Adds tweaks and heads for the stonecutter!",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "text": "Version "
+      },
+      {
+        "text": "2.1.2",
+        "color": "#55ff55"
+      },
+      {
+        "text": " for Minecraft "
+      },
+      {
+        "text": "1.21.6+",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "text": "by "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay-88",
+        "min_format": 88,
+        "max_format": 999
+     }
+    ]
+  }
+}

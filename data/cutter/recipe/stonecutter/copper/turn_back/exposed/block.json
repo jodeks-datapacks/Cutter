@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:exposed_copper",
+  "result": {
+    "id": "minecraft:copper_block",
+    "count": 1
+  }
+}

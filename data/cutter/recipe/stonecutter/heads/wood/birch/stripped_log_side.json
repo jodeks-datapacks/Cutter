@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:stripped_birch_log",
+    "result": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+            "minecraft:custom_name": {
+                "translate": "block.minecraft.stripped_birch_log",
+                "italic": false
+            },
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGVkMjc3M2ZiYjdkZTI2MjA1ZjQ1ODg2OTU0MDI5ZWU5ODUxZWZlOWVjMzBjMzVhNDg1NDVlMWQyOTAzNGUxNiJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

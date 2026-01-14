@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:crimson_stem",
+    "result": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+            "minecraft:custom_name": {
+                "translate": "block.minecraft.crimson_stem",
+                "italic": false
+            },
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGJiM2Q2ZjliYjJjNjMzZGQ1M2JjY2Y5OTFmYzBjMGJhNjY0OWJmODZhY2E1NzkyMTVkNzU2MThhN2ViMTExYyJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}

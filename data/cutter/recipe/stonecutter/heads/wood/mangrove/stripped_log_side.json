@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": "minecraft:stripped_mangrove_log",
+    "result": {
+        "id": "minecraft:player_head",
+        "count": 1,
+        "components": {
+            "minecraft:custom_name": {
+                "translate": "block.minecraft.stripped_mangrove_log",
+                "italic": false
+            },
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJkNWYzN2RlMGM4YmQ1YTQ0NmQ4ZGFjYzM4OTQyODhlNGE1ZTQ1M2Q4NGJjZjU1YmVhMzRmNjJiYjE0MWI4NyJ9fX0="
+                    }
+                ]
+            }
+        }
+    }
+}
