@@ -16,7 +16,7 @@ function cutter:image/set_image_data {\
     "Better Cutter",\
     {text: "Adds tweaks and heads for the stonecutter!", color: "#aaaaaa"},\
     "",\
-    [{text: "Datapack version: ", color: "#00a800"}, {text: "v2.1.2", color: "#54fc54"}],\
+    [{text: "Datapack version: ", color: "#00a800"}, {text: "v2.2.2", color: "#54fc54"}],\
     [{text: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{text: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
