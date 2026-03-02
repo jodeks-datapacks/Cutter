@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": "minecraft:chain_command_block",
+  "result": {
+    "id": "minecraft:chain_command_block"
+  }
+}

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "minecraft:acacia_planks",
+  "ingredient": "minecraft:cherry_planks",
   "result": {
-    "id": "minecraft:acacia_sign",
+    "id": "minecraft:cherry_sign",
     "count": 1
   }
 }
